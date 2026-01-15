@@ -101,4 +101,23 @@ Use GitHub to clone the repository locally.
 ---
 
 ## Project Structure
+Controllers
+Models
+Views
+Storyboards
+Assets.xcassets
+Supporting Files
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Author
+
+Wambaire Ian Nganga
+
 
