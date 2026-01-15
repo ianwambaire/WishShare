@@ -49,8 +49,10 @@ The application supports social interactions between users and provides tools fo
 Users can sign up, log in, and access the application features after authentication.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7100cb39-4986-4136-8df5-5982e48481d9" width="220">
-  <img src="https://github.com/user-attachments/assets/97fde527-8ce5-4e6e-89d5-a292ded2a751" width="220">
+  <img src="https://github.com/user-attachments/assets/64d60e98-cf22-4870-9294-a8cbf169e450" width="220">
+  <img src="https://github.com/user-attachments/assets/61700c31-7d51-47fe-896b-e4f9e7011e4e" width="220">
+  <img src="https://github.com/user-attachments/assets/2f8de572-2382-4962-867b-54df1ca5ac41" width="220">
+  <img src="https://github.com/user-attachments/assets/6329713f-14b9-41ba-90f6-28981034ff57" width="220">
 </p>
 
 ---
@@ -60,7 +62,16 @@ Users can sign up, log in, and access the application features after authenticat
 Users can view upcoming birthdays and navigate to friends’ wishlists.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00d0eb61-050c-49e1-9619-395cfde683e5" width="220">
+  <img src="https://github.com/user-attachments/assets/aa10c98a-c7a6-487e-9e61-5fbe41baa9d1" width="220">
+  <img src="https://github.com/user-attachments/assets/504ed94a-20d9-44e3-a8b3-139b5dbc3b56" width="220">
+  <img src="https://github.com/user-attachments/assets/ec2d04ae-37b3-4010-9b83-2f807145903c" width="220">
+  <img src="https://github.com/user-attachments/assets/279be6d0-deb1-43d7-84f7-1801e0ce293b" width="220">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab4a1fe5-4824-4b61-a5b3-2c570a996f5f" width="220">
+  <img src="https://github.com/user-attachments/assets/51f7bff2-bfab-4397-af07-40d4ada687a1" width="220">
+  <img src="https://github.com/user-attachments/assets/8300f3f8-19d8-4ae4-a3e0-4c52b9795f21" width="220">
 </p>
 
 ---
@@ -70,7 +81,8 @@ Users can view upcoming birthdays and navigate to friends’ wishlists.
 Users can create wishlists, add items, and view wishlist details.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6101bf4-3496-4162-bae0-1471656dee2e" width="220">
+  <img src="https://github.com/user-attachments/assets/c0862233-06d6-443f-86dc-010fbe47d2bc" width="220">
+  <img src="https://github.com/user-attachments/assets/c05541c1-c283-4548-8939-fb33ea5fbbb9" width="220">
 </p>
 
 ---
@@ -80,7 +92,7 @@ Users can create wishlists, add items, and view wishlist details.
 Friends can contribute towards a gift and track how much each person has paid toward the total goal.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2362ad4f-1725-4ef4-abad-9a7cfa39eb95" width="220">
+  <img src="https://github.com/user-attachments/assets/3a00ca72-d5df-481c-ba6b-097022b3cc11" width="220">
 </p>
 
 ---
