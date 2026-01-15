@@ -87,4 +87,22 @@ Friends can contribute towards a gift and track how much each person has paid to
 
 ## Installation
 
-1. Clone the repository:
+### Clone the Repository
+
+Use GitHub to clone the repository locally.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47609911-9814-46af-afe5-5089f685782a" width="600">
+</p>
+
+### Open in Xcode
+
+1. Open the cloned project folder.
+2. Double-click the `.xcodeproj` file to open it in Xcode.
+3. Select an iOS simulator or a connected physical device.
+4. Run the application using **Command + R**.
+
+---
+
+## Project Structure
+
